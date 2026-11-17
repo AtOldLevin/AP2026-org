@@ -373,7 +373,7 @@
 
 14
 
-'---- 2026.11.18 ----  commit message は以下の "0 2026.10.30 3901 山田花子 "  に従ってください。 カーソル行を削除 Ctrl + Shift + K（Macは Cmd + Shift + K） 画面キャプチャ　Win + Shift + S	　Macbook = Command + Shift + S -----------
+'---- 2026.11.18 ----  commit message は以下の "00 2026.11.18 3901 山田花子 "  に従ってください。 カーソル行を削除 Ctrl + Shift + K（Macは Cmd + Shift + K） 画面キャプチャ　Win + Shift + S	　Macbook = Command + Shift + S -----------
 
 00 2026.11.18 3901 山田花子 
 
